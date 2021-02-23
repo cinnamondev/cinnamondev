@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on 
+- 😄 Pronouns: 
+- ⚡ Fun fact: (facts)[http://randomfactgenerator.net/]
+
+
+self note for (gists)[https://gists.github.com/cinnamondev/]
+
 <!--
 **cinnamondev/cinnamondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
