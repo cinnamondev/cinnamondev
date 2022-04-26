@@ -1,3 +1,5 @@
+![Metrics](/github-metrics.svg)
+
 ###
 Hi! I write silly code
 
