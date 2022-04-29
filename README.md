@@ -1,10 +1,8 @@
-![Metrics](/github-metrics.svg)
-
 ###
-Hi! I write silly code
+Hi! I make stuff!
 
 - 🔭 I’m currently working on a [Pi Handheld](https://github.com/cinnamondev/gamepithing) ([Development log](https://cinnamondev.github.io/projects/minipie/))
-- 🌱 I’m currently learning to design hardware
+- 🌱 I’m currently learning to design hardware betterer
 - 💬 Ask me about nothing
 - 😄 Pronouns: she her pls ok thank you :>
 - 📫 How to reach me: [IPOAC](https://datatracker.ietf.org/doc/html/rfc2549)
