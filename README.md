@@ -8,8 +8,10 @@
 Find my website:
 [itsCinnamon](https://www.itscinnamon.me/)
 
-
-
+Some cool projects:
+- Pi handheld:
+  - [Project page](www.itscinnamon.me/projects/leviathan)
+  - [Repo](www.github.com/cinnamondev/gamepithing)
 
 Additional profiles:
 
