@@ -1,19 +1,20 @@
-###
-Hi! I make stuff!
+![itscinnamon](/itscinnamon.svg)
+## Hi! I make stuff!
 
 - 🔭 I’m currently working on a [Pi Handheld](https://github.com/cinnamondev/gamepithing) ([Development log](https://cinnamondev.github.io/projects/minipie/))
-- 🌱 I’m currently learning to design hardware betterer
-- 💬 Ask me about nothing
-- 😄 Pronouns: she her pls ok thank you :>
 - 📫 How to reach me: [IPOAC](https://datatracker.ietf.org/doc/html/rfc2549)
 - ⚡ Fun fact: [Free facts](http://randomfactgenerator.net/)
 
+Find my website:
+[itsCinnamon](https://www.itscinnamon.me/)
 
-[![the stats](https://github-readme-stats.vercel.app/api?username=cinnamondev&theme=shades-of-purple&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 Additional profiles:
 
 [Wikipedia](https://en.wikipedia.org/wiki/User:Prompt0259)
+
 [Gitlab](https://gitlab.com/pr0mpted)
 
 [Gists 🗒️](https://gist.github.com/cinnamondev)
