@@ -10,8 +10,9 @@ Find my website:
 
 Some cool projects:
 - Pi handheld:
-  - [Project page](www.itscinnamon.me/projects/leviathan)
-  - [Repo](www.github.com/cinnamondev/gamepithing)
+  - [Project page](https://www.itscinnamon.me/projects/leviathan)
+  - [Repo](https://www.github.com/cinnamondev/gamepithing)
+
 
 Additional profiles:
 
