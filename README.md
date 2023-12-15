@@ -5,7 +5,7 @@
 - ⚡ Fun fact: [Free facts](http://randomfactgenerator.net/)
 
 Find my website:
-[itsCinnamon](https://www.itscinnamon.me/)
+[itsCinnamon](https://cinnamondev.github.io/)
 
 
 [Gists 🗒️](https://gist.github.com/cinnamondev)
