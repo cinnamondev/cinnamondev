@@ -1,14 +1,14 @@
 ![itscinnamon](/itscinnamon.svg)
 ## Hi! I make stuff (sometimes)
 
+### links
+
+- [website](https://cinnamondev.github.io)
+- gitlab: [@spicymeowmeow](https://gitlab.com/spicymeowmeow/)
+- [gists](https://gist.github.com/cinnamondev)
+
 - 📫 How to reach me: [IPOAC](https://datatracker.ietf.org/doc/html/rfc2549)
 - ⚡ Fun fact: [Free facts](http://randomfactgenerator.net/)
-
-Find my website:
-[itsCinnamon](https://cinnamondev.github.io/)
-
-
-[Gists 🗒️](https://gist.github.com/cinnamondev)
 
 <!--
 **cinnamondev/cinnamondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
