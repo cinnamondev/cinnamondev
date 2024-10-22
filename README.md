@@ -7,6 +7,8 @@
 - gitlab: [@spicymeowmeow](https://gitlab.com/spicymeowmeow/)
 - [gists](https://gist.github.com/cinnamondev)
 
+### other
+
 - 📫 How to reach me: [IPOAC](https://datatracker.ietf.org/doc/html/rfc2549)
 - ⚡ Fun fact: [Free facts](http://randomfactgenerator.net/)
 
